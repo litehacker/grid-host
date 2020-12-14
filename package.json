@@ -19,7 +19,7 @@
         "x3g"
     ],
     "dependencies": {
-        "bmp-js": "0.0.3",
+        "bmp-js": "0.1.0",
         "buffer-crc32": "^0.2.13",
         "connect": "^3.6.6",
         "form-data": "^1.0.1",
